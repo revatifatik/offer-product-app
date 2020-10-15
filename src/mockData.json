@@ -1,0 +1,32 @@
+{
+  "response": "0000",
+    "offers": [
+      {
+        "offerType": "internet",
+        "price": "100",
+        "disclosures": {
+          "disclosure1": "Disclosure 1",
+          "disclosure2": "Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2",
+          "disclosure3": "Disclosure 3 Disclosure 3 Disclosure 3"
+        }
+      },
+      {
+        "offerType": "phone",
+        "price": "150",
+        "disclosures": {
+          "disclosure1": "Disclosure 1",
+          "disclosure2": "Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2",
+          "disclosure3": "Disclosure 3 Disclosure 3 Disclosure 3"
+        }
+      },
+      {
+        "offerType": "tv",
+        "price": "200",
+        "disclosures": {
+          "disclosure1": "Disclosure 1",
+          "disclosure2": "Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2 Disclosure 2",
+          "disclosure3": "Disclosure 3 Disclosure 3 Disclosure 3"
+        }
+      }
+    ]
+}
